@@ -246,7 +246,8 @@ body{ background: #000000;font-family: 'Gilroy'; font-weight: normal; color: #ff
     position: absolute;
     right: -110px;
     bottom: -90px;
-    width: 950px;
+    width: 100%;
+    
 }
 .md_banner_inn .md_banner_img img{
     display: block;
@@ -1011,11 +1012,10 @@ display: block;}
     opacity: 0;
 }
 .md_wheels .md_wheels_inn .md_wheels_img .bgwheel2 {
-    position: absolute;
-    left: -501px;
-    bottom: -174px;
-    width: auto;
-    max-width: 1790px;
+    width: 90vw;
+    height: 90vw;
+    margin-bottom: 10px;
+    
 }
 .md_banner_inn .md_header {
     display: none;

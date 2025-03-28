@@ -15,13 +15,7 @@
 	bottom: 220px;
 	max-width: 1200px;
 }
-.md_wheels .md_wheels_inn .md_wheels_img .bgwheel2 {
-    position: absolute;
-    left: -483px;
-    bottom: -179px;
-    width: auto;
-    max-width: 1680px;
-}
+
 }
 @media screen and (max-width:1550px) {
 	.md_banner_inn .md_banner_img {
@@ -74,11 +68,7 @@ transform: translate(0px,-5px);
 .lb_celeb .celeb_wrap .celebslider .item .clb_img_wrap .a_play {
 	max-width: 50px;
 }
-.md_wheels .md_wheels_inn .md_wheels_img .bgwheel2 {
-	left: -371px;
-	bottom: -117px;
-	max-width: 1340px;
-}
+
 }
 
 @media screen and (max-width:1279px) {
@@ -362,11 +352,7 @@ transform: translate(0px,-5px);
 .md_cs {
 	padding: 70px 0;
 }
-.md_wheels .md_wheels_inn .md_wheels_img .bgwheel2 {
-	left: -245px;
-	bottom: -98px;
-	max-width: 830px;
-}
+
 }
 
 @media screen and (max-width:767px) {
